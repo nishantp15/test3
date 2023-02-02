@@ -1,3 +1,4 @@
+{
 "products": [
       {
         "id": 1,
@@ -320,3 +321,4 @@
         "category": "homedecor"
       }
     ]
+}
